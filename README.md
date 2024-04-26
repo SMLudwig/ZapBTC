@@ -6,6 +6,8 @@ Siegfried Ludwig
 ### Abstract
 The introduction of Bitcoin as a value transfer protocol native to the internet opens up entirely new approaches for mapping content relevance to address digital spam and the fraying of the social fabric. Building on the tipping of _zaps_ on the decentralized _nostr_ social network, the proposed protocol uses provable bitcoin deposits to form trustless maps of relevance for digital content, independent of centralized platforms and privileged information curators. By verifiably binding up liquidity behind digital content, users can indicate both the positive and negative value they derived from their interaction with it. Such user _zaps_ added to the positive deposit directly contribute to content discoverability, and can be withdrawn by the content author to claim their monetary value. Attempts to artificially extend the reach of digital content are limited by the opportunity cost incurred when locking up liquidity in the deposit as a form of advertising. The proposed protocol reduces the need for centralized institutions, such as search engines and social media companies, to create maps of relevance for the content on the internet.
 
+It looks like this could be implemented using Cashu ecash https://x.com/callebtc/status/1783824962697982296
+
 
 ## Introduction
 
